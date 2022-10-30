@@ -1,0 +1,16 @@
+{
+"name": "dragonlegend",
+"theme": "dragon legend",
+"version": "9.3.9",
+"description": "dragon legend ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+"keywords": [
+"dragon legend",
+"dragon legend เครดิตฟรี",
+"dragon legend ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/dragonlegend",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
